@@ -4,7 +4,7 @@ A Python tool that reconciles restaurant POS transaction data against delivery p
 
 ## What it does
 
-Restaurants selling through delivery platforms need to verify that what the platform reports matches what their POS system recorded. This script automates that process — loading data from both sources, matching orders, and categorising every record as matched, a price discrepancy, missing in POS, or missing in the platform system.
+Restaurants selling through delivery platforms need to verify that what the platform reports matches what their POS system recorded. This script automates that process loading data from both sources, matching orders, and categorising every record as matched, a price discrepancy, missing in POS, or missing in the platform system.
 
 ## How it works
 
