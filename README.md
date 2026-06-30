@@ -20,6 +20,7 @@ Python, pandas, NumPy, openpyxl
 
 ## Usage
 Run with `all` as the argument to process every configured restaurant brand in sequence.
+Sample anonymised data is included in `sample_data/` so you can test the script immediately after cloning.
 
 ## Note
 
